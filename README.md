@@ -1,4 +1,4 @@
-# IDTech Final
+# Jetson File Clearer
 Program to look for which images in a folder contain a certain object. If you have many photos and only need some, this would be useful.
 
 # Demonstration Video
